@@ -35,3 +35,8 @@ summary(AUmodel)
 "The model is Assault = 73.0766 + 1.4904 * UrbanPop. The Adjusted R-squared is
 0.04758, this is very bad. Population is just not a good predictor for Assault
 rate. We need more variables."
+
+"But this model is made under the linear relationship assumption. It could be
+that the relationship is not linear. However at the moment i have not acquire
+the skills needed to create a non-linear model. I will need to study and come
+back to this project when i have the skills required."

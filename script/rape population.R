@@ -29,3 +29,8 @@ summary(RUmodel)
 "We get a model with Adjusted R-squared:  0.1519. The model is Rape = 3.78707
 + 0.26617 * Population. This is a bad model and certainly not good enough to be
 used in the real world."
+
+"But this model is made under the linear relationship assumption. It could be
+that the relationship is not linear. However at the moment i have not acquire
+the skills needed to create a non-linear model. I will need to study and come
+back to this project when i have the skills required."

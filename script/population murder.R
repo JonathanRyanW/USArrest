@@ -25,3 +25,8 @@ summary(MUmodel)
 
 "The model is Murder = 6.41594 + 0.02093*UrbanPop. The Adjusted R-squared is
 -0.01589. Very very bad model. We obviously need another variable."
+
+"But this model is made under the linear relationship assumption. It could be
+that the relationship is not linear. However at the moment i have not acquire
+the skills needed to create a non-linear model. I will need to study and come
+back to this project when i have the skills required."
